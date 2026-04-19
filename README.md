@@ -231,6 +231,7 @@ The platform is designed to help Somalia build a modern football ecosystem tailo
 - Ruwaydo Abdiqadir - Full Stack Developer
 - Abdiaziiz Mohamed Ali - Full Stack Developer
 - Abukar Xasan Cumar - Full Stack Developer
+- Farhio mohamud yonis - Full Stack Developer
 
 ## License
 
